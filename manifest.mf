@@ -1,0 +1,4 @@
+Manifest-Version: 2.1
+Created-By: GustafFranzén
+Package-Name: terrablocks
+Main-Class: terrablocks.Main
